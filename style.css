@@ -49,6 +49,9 @@ margin: 0 auto;
 .reqColor {
     color: #000000;
 }
+.nav{
+    align-self: centre;
+}
 
 .grid{
     display: grid;
@@ -109,6 +112,10 @@ input[type=text] {
        }
 }
 
-@media (max-width:1200px) {
+@media (max-width:700px) {
 
+.input{
+    display: flex;
+    flex-direction: column;
+  }
 }
