@@ -49,9 +49,10 @@ margin: 0 auto;
 .reqColor {
     color: #000000;
 }
-.navg{
-    align-self: centre;
-}
+/* .navg{
+   align-items: center;
+   justify-items: center;
+} */
 
 .grid{
     display: grid;
